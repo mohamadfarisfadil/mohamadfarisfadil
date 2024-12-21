@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamad Faris Fadil</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Mohamad Faris Fadil, from Indonesia</h2>
 
 ###
 
