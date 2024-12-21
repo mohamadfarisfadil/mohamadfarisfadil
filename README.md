@@ -49,7 +49,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadfarisfadil" alt="mohamadfarisfadil" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://codefserver.my.id/bio_mohamadfarisfadil.php](https://codefserver.my.id/bio_mohamadfarisfadil.php)
+- 👨‍💻 All of my projects are available at [Code F](https://codefserver.my.id/)
 
 - 💬 Ask me about **Code F berisi project hasil sendiri bahasa pemrograman html, css, python, Visual basic, C#, Server Hosting, dan PHP**
 
