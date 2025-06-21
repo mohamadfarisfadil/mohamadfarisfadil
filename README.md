@@ -59,6 +59,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamad-faris-fadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-faris-fadil" height="30" width="40" /></a>
+  <a href="https://farisweb.web.id/" target="blank"><img align="center" src="https://farisweb.web.id/assets/img/pp.png" alt="mohamad-faris-fadil" height="30" width="40" /></a>
 <a href="https://fb.com/fadil.slkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fadil.slkt" height="30" width="40" /></a>
 <a href="https://instagram.com/fadilkontenkreator2official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fadilkontenkreator2official" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aikkofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aikkofficial" height="30" width="40" /></a>
