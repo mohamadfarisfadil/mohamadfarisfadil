@@ -53,8 +53,8 @@
 
 - 💬 Ask me about **Code F berisi project hasil sendiri bahasa pemrograman html, css, python, Visual basic, C#, Server Hosting, dan PHP**
 
-- 📫 How to reach me **admin@farisweb.web.id/[+62 851-5630-0843](https://wa.me/6285156300843)
-**
+- 📫 How to reach me admin@farisweb.web.id/[+62 851-5630-0843](https://wa.me/6285156300843)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
