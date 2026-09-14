@@ -53,7 +53,7 @@
 
 - 💬 Ask me about **Code F berisi project hasil sendiri bahasa pemrograman html, css, python, Visual basic, C#, Server Hosting, dan PHP**
 
-- 📫 How to reach me admin@farisweb.web.id/[+62 851-5630-0843](https://wa.me/6285156300843)
+- 📫 How to reach me admin@farisweb.web.id/[+62 851-5630-0843](https://wa.me/6285158880843)
   
 
 <h3 align="left">Connect with me:</h3>
@@ -70,7 +70,7 @@
 <p align="left">
   <!-- Tools AI -->
   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
-    <img src="https://farisweb.web.id/assets/img/openai.svg" alt="openai" width="40" height="40"/>
+    <img src="[https://faris.web.id/assets/img/openai.svg](https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg)" alt="openai" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
