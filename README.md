@@ -70,7 +70,7 @@
 <p align="left">
   <!-- Tools AI -->
   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File:ChatGPT_logo.svg#/media/File:ChatGPT_logo.svg" alt="openai" width="40" height="40"/>
+    <img src="https://farisfadil.web.id/ChatGPT_logo.svg" alt="openai" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
